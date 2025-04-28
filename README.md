@@ -96,6 +96,6 @@ Boosts speed, minimizes human error, ensures stable releases.
 
 ## 📁 Repository Link
 
-🔗 [airbnb-clone-project](https://github.com/your-username/airbnb-clone-project)
+🔗 [airbnb-clone-project](https://github.com/BaslealAkliluNeymar/airbnb-clone-project)
 
 ---
