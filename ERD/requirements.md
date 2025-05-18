@@ -1,4 +1,3 @@
-✅ Corrected Relationships
 1. Users ↔ Bookings
 ✔ One-to-Many: One user (guest) can make many bookings.
 
